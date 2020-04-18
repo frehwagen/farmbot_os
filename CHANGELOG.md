@@ -1,5 +1,9 @@
 # Changelog
 
+# 9.2.3
+
+ * Genesis v1.5 and Express v1.0 firmware updates.
+
 # 9.2.2
 
  * Fix firmware locking error ("Can't perform X in Y state")
